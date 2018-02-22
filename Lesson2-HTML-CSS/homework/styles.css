@@ -1,0 +1,15 @@
+
+h1 { color: chartreuse;
+   }
+    img { width: 400px;
+                margin :50px;
+         }
+         #thirdDiv {
+             height:600px;
+             width: 400px;
+             background-color: rgb(226, 43, 43);
+             padding:50px;
+             border-color: aqua;
+             border-width:100px; 
+             border-style: groove
+            }
